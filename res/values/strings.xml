@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Convene 2K13</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Welcome_note">Cybage presents Convene 2K13</string>
+    <string name="title_activity_show_on_map">Show_on_map</string>
+    <string name="title_activity_show_schedule">Show_schedule</string>
+    <string name="description"/>
+    <string name="loading">Loading Map...</string>
+
+</resources>
